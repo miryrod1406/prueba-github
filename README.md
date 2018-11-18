@@ -23,6 +23,10 @@ Este es una linea codigo `git commit -m "Mensaje"`
 git push origin master (para enviar los cambios a Github)
 ```
 
+### Lista de comandos
+![alt text](https://raw.githubusercontent.com/ricardo-hdz/prueba-github/master/comandos.png)
+
+
 ## Tarea
 1. Crear un repositorio nuevo llamado `tarea-1`
 2. Modificar el `readme.md` con un texto
