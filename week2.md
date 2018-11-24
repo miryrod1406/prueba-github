@@ -8,9 +8,7 @@
 
 `git pull` - Listo
 
-`git branch` -
-
-`git checkout branch` -
+`git checkout -b nombre` - Comando solo se utiliza para crear una nueva rama
 
 `git checkout master` -
 
