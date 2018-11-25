@@ -2,17 +2,17 @@
 ## Comandos para trabajar remotamente
 ### Lista de comandos
 
-`git clone` - Listo
+`git clone` - Comando para clonar un repo
 
-`git push` - Listo
+`git push` - Comando para hacer push de changes a un repo remoto
 
-`git pull` - Listo
+`git pull` - Comando para obtener los cambios actuales de un repo remoto
 
-`git checkout -b <name>` -
+`git checkout -b <name>` - Comando para crear una nueva branch
 
-`git checkout <name>` -
+`git checkout <name>` - Comando para cambiar de branch
 
-`Pull Request` - Para revisar cambios en una rama y hacer merge a otra rama.
+`Pull Request` - Proceso para revisar cambios en una rama, realizar revisiones y hacer merge a rama base.
 
 # Tarea
 
